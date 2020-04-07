@@ -1,2 +1,4 @@
 # leetcode
-Leetcode练习题目
+#### 20 
+
+#### 26
