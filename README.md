@@ -95,3 +95,16 @@ palindrome:回文
 #### 167 一个有序数组求和 twosum
 
 两个指针
+
+#### 169 找众数
+
+用map就行
+
+⚠️C++
+
+* map查找是否存在某个key
+
+  * map.count > 0
+  * m.find(key) != m.end()
+
+  
